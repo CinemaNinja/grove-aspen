@@ -1,0 +1,12 @@
+{
+  "name": "Grove — A Gathering Place",
+  "short_name": "Grove",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1B3129",
+  "theme_color": "#1B3129",
+  "icons": [
+    { "src": "/assets/logo/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "/assets/logo/apple-touch.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
